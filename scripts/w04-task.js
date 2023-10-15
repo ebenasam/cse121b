@@ -30,7 +30,7 @@ myProfile.placesLived.push({
     length: "25 years"
 },
 {
-    place: "Sefwi-Juaboso, Western Ghans",
+    place: "Sefwi-Juaboso, Western Ghana",
     length: "2 years",
 },
 {
